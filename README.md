@@ -14,6 +14,7 @@ Below is the list of projects currently available:
 3. [Rotating Navigation](https://imustakim.github.io/fifty_projects/003_rotating_navigation)
 4. [Hidden Search Widget](https://imustakim.github.io/fifty_projects/004_hidden_search_widget)
 5. [Blurry Loading](https://imustakim.github.io/fifty_projects/005_blurry_loading)
+6. [Scroll Animation](https://imustakim.github.io/fifty_projects/006_scroll_animation)
 
 *(More projects will be added soon. Stay tuned!)*
 
