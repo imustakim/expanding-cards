@@ -12,6 +12,7 @@ Below is the list of projects currently available:
 1. [Expanding Cards](https://imustakim.github.io/fifty_projects/001_expanding_cards)
 2. [Progress Steps](https://imustakim.github.io/fifty_projects/002_progress_steps)
 3. [Rotating Navigation](https://imustakim.github.io/fifty_projects/003_rotating_navigation)
+3. [Hidden Search Widget](https://imustakim.github.io/fifty_projects/004_hidden_search_widget)
 
 *(More projects will be added soon. Stay tuned!)*
 
